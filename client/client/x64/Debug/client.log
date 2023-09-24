@@ -1,0 +1,2 @@
+﻿  client.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(3,10): fatal  error C1014: 包含文件太多: 深度 = 1024
